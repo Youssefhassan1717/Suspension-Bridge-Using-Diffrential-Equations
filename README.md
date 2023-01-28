@@ -1,1 +1,0 @@
-# Suspension-Bridge-Using-Diffrential-Equations
